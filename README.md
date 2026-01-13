@@ -7,3 +7,4 @@ The final project report consist of
 3. methodology
 4. Analysis
 5. code and documentation
+6. ppt
