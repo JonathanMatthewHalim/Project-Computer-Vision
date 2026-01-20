@@ -95,6 +95,6 @@ https://github.com/Val87Anto/Stereo-Vision-Vehicle-Distance-Estimation-And-Detec
 
 ## Team Members
 - **Valerie Liang Alianto** (Leader)
-- Jonathan Matthew Halim
+- Jonathan Matthew Halim.
 - Sachika Valenlie
 - Bryan Stevensen Kho
